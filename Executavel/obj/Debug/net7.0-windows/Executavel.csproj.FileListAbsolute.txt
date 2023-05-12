@@ -1,0 +1,15 @@
+C:\Users\eduardo.furlaneto\Desktop\Executavel\bin\Debug\net7.0-windows\Executavel.exe
+C:\Users\eduardo.furlaneto\Desktop\Executavel\bin\Debug\net7.0-windows\Executavel.deps.json
+C:\Users\eduardo.furlaneto\Desktop\Executavel\bin\Debug\net7.0-windows\Executavel.runtimeconfig.json
+C:\Users\eduardo.furlaneto\Desktop\Executavel\bin\Debug\net7.0-windows\Executavel.dll
+C:\Users\eduardo.furlaneto\Desktop\Executavel\bin\Debug\net7.0-windows\Executavel.pdb
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.csproj.AssemblyReference.cache
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.AssemblyInfoInputs.cache
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.AssemblyInfo.cs
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.dll
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\refint\Executavel.dll
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.pdb
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\Executavel.genruntimeconfig.cache
+C:\Users\eduardo.furlaneto\Desktop\Executavel\obj\Debug\net7.0-windows\ref\Executavel.dll
